@@ -1,0 +1,184 @@
+{
+    "1290997746": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": [
+            {
+                "date": "2025-10-15 17:33",
+                "exercise": "Вертикальная тяга",
+                "sets": 4,
+                "reps": 8,
+                "weight": 50.0
+            }
+        ]
+    },
+    "528667006": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": []
+    },
+    "443280160": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": []
+    },
+    "511863817": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": [
+            {
+                "date": "2025-10-16 14:24",
+                "exercise": "Приседание в Смите",
+                "sets": 3,
+                "reps": 12,
+                "weight": 35.0
+            }
+        ]
+    },
+    "105058611": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": []
+    },
+    "322967637": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": [
+            {
+                "date": "2025-10-16 14:31",
+                "exercise": "Жим гантелей лежа",
+                "sets": 5,
+                "reps": 12,
+                "weight": 27.0
+            }
+        ]
+    },
+    "1900278397": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": []
+    },
+    "819229973": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": [
+            {
+                "date": "2025-10-16 15:30",
+                "exercise": "Жизнь лежа",
+                "sets": 3,
+                "reps": 10,
+                "weight": 80.0
+            }
+        ]
+    },
+    "596652570": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": []
+    },
+    "188171117": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": [
+            {
+                "date": "2025-10-16 15:57",
+                "exercise": "Ягодичный мост",
+                "sets": 4,
+                "reps": 15,
+                "weight": 70.0
+            }
+        ]
+    },
+    "820747521": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": []
+    },
+    "497868361": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": [
+            {
+                "date": "2025-10-16 16:37",
+                "exercise": "Жим платформы",
+                "sets": 4,
+                "reps": 12,
+                "weight": 300.0
+            }
+        ]
+    },
+    "1240587494": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": []
+    },
+    "1224930741": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": [
+            {
+                "date": "2025-10-17 13:53",
+                "exercise": "Махи",
+                "sets": 2,
+                "reps": 15,
+                "weight": 31.0
+            },
+            {
+                "date": "2025-10-17 13:54",
+                "exercise": "Жим ногами",
+                "sets": 2,
+                "reps": 12,
+                "weight": 50.0
+            },
+            {
+                "date": "2025-10-17 13:57",
+                "exercise": "Отжимания",
+                "sets": 2,
+                "reps": 8,
+                "weight": 0.0
+            },
+            {
+                "date": "2025-10-17 13:58",
+                "exercise": "Болгарсий",
+                "sets": 2,
+                "reps": 10,
+                "weight": 14.0
+            },
+            {
+                "date": "2025-10-17 13:59",
+                "exercise": "Разгибания с косичкой",
+                "sets": 2,
+                "reps": 8,
+                "weight": 21.0
+            }
+        ]
+    },
+    "982089328": {
+        "goal": "не указана",
+        "height": null,
+        "weight": null,
+        "workouts": [
+            {
+                "date": "2025-10-17 11:34",
+                "exercise": "Дим ногами",
+                "sets": 3,
+                "reps": 12,
+                "weight": 30.0
+            }
+        ]
+    }
+}
