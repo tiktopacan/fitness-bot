@@ -1,0 +1,21 @@
+# Данные пользователей — не должны попадать в репозиторий
+fitness_data.json
+users.json
+
+# Виртуальное окружение Python
+venv/
+env/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Переменные окружения / секреты
+.env
+
+# IDE / системные файлы
+.DS_Store
+.vscode/
+.idea/
